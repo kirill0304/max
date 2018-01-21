@@ -1,6 +1,7 @@
  
 
-# max = []
+риортл
+
 # for i in range(10000):
 #     max.append("I LOVE SASHA")    
 # print("\n".join(max))
